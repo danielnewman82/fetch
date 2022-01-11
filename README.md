@@ -1,5 +1,4 @@
-# fetch
-Fetch Rewards DevOps challenge
+# Fetch Rewards DevOps challenge
 
 Well, I got it done. I'm not particularly proud of how long it took, or how robust it is, but it does what it's supposed to do. I got the challenge right before Christmas, so I
 did the easy part and figured out how to parse the YAML file into Python, then gave it a rest until after the New Year. Then it still took too long, but in my defense, I'd never 
